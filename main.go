@@ -2,5 +2,5 @@ package main
 import "fmt"
 
 func main(){
-	fmt.Println("Eralp\n  Eralp *0001 ulalalal !! *** ERALP **** ");
+	fmt.Println("rttt\n  tttt *0001 ulalalal !! *** tttt **** ");
 }
